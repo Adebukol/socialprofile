@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/Adebukol/socialprofile
+- Live Site URL: https://adebukol.github.io/socialprofile/
 
 ## My process
 
